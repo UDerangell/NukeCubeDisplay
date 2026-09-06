@@ -1,0 +1,483 @@
+{
+  "source": "SERI Q-methodology report, Delaware Nuclear Energy Feasibility Task Force, 9 June 2026",
+  "participantCount": 21,
+  "consensusStatementIds": [
+    "s11",
+    "s12",
+    "s17",
+    "s19",
+    "s2",
+    "s30",
+    "s36"
+  ],
+  "faces": [
+    {
+      "perspectiveId": "P1",
+      "name": "Skeptical Realism",
+      "subtitle": "Proceed Only with Full Accountability",
+      "definingParticipants": 5,
+      "centerCubie": {
+        "statementId": "s37",
+        "text": "Who bears financial risk if an SMR project fails must be resolved first",
+        "score": 4.13
+      },
+      "cubies": [
+        {
+          "statementId": "s4",
+          "text": "Delaware should pioneer SMRs and accept early-mover risk",
+          "score": -4.26,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -4.26,
+            "P2": 1.88,
+            "P3": -5.0,
+            "P4": -4.37
+          }
+        },
+        {
+          "statementId": "s16",
+          "text": "On-site stored nuclear waste is not a major public-health concern",
+          "score": -3.26,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -3.26,
+            "P2": 0.22,
+            "P3": -1.56,
+            "P4": -0.24
+          }
+        },
+        {
+          "statementId": "s3",
+          "text": "Delaware should re-regulate its electricity market to speed SMR deployment",
+          "score": -3.23,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -3.23,
+            "P2": 0.68,
+            "P3": -1.51,
+            "P4": -0.63
+          }
+        },
+        {
+          "statementId": "s7",
+          "text": "Delaware should shift to a Clean Energy Standard that subsidizes nuclear",
+          "score": -2.96,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -2.96,
+            "P2": 0.14,
+            "P3": -0.12,
+            "P4": 0.86
+          }
+        },
+        {
+          "statementId": "s15",
+          "text": "Job creation is a major reason to deploy SMRs",
+          "score": -2.58,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -2.58,
+            "P2": 1.63,
+            "P3": -1.41,
+            "P4": -4.32
+          }
+        },
+        {
+          "statementId": "s11",
+          "text": "An SMR won't generate power in Delaware before the mid-to-late 2030s",
+          "score": 2.54,
+          "polarity": "affirm",
+          "isConsensus": true,
+          "allScores": {
+            "P1": 2.54,
+            "P2": 1.57,
+            "P3": 2.66,
+            "P4": 1.38
+          }
+        },
+        {
+          "statementId": "s36",
+          "text": "Climate obligations should outweigh cost concerns in this decision",
+          "score": -2.46,
+          "polarity": "reject",
+          "isConsensus": true,
+          "allScores": {
+            "P1": -2.46,
+            "P2": -1.21,
+            "P3": -1.68,
+            "P4": -0.7
+          }
+        },
+        {
+          "statementId": "s6",
+          "text": "Delaware should proactively engage PJM governance to protect its interests",
+          "score": 2.38,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 2.38,
+            "P2": 0.39,
+            "P3": -0.49,
+            "P4": 2.11
+          }
+        }
+      ]
+    },
+    {
+      "perspectiveId": "P2",
+      "name": "Delaware Must Act",
+      "subtitle": "Urgency, Commitment, and No More Waiting",
+      "definingParticipants": 4,
+      "centerCubie": {
+        "statementId": "s32",
+        "text": "Delaware should build natural gas now as a bridge to SMRs",
+        "score": 3.31
+      },
+      "cubies": [
+        {
+          "statementId": "s29",
+          "text": "The state should do more studies before deciding on SMRs",
+          "score": -4.21,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 0.8,
+            "P2": -4.21,
+            "P3": -1.05,
+            "P4": -1.0
+          }
+        },
+        {
+          "statementId": "s31",
+          "text": "Waiting until 2040 could permanently disadvantage Delaware",
+          "score": 3.21,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -0.85,
+            "P2": 3.21,
+            "P3": 0.54,
+            "P4": -1.74
+          }
+        },
+        {
+          "statementId": "s13",
+          "text": "Being a power off-taker from a neighboring state's reactor is acceptable",
+          "score": -3.03,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -1.11,
+            "P2": -3.03,
+            "P3": 0.63,
+            "P4": 1.32
+          }
+        },
+        {
+          "statementId": "s19",
+          "text": "Delaware should lay groundwork now regardless of which path is chosen",
+          "score": 2.63,
+          "polarity": "affirm",
+          "isConsensus": true,
+          "allScores": {
+            "P1": 2.05,
+            "P2": 2.63,
+            "P3": 1.27,
+            "P4": 1.7
+          }
+        },
+        {
+          "statementId": "s35",
+          "text": "Delaware should wait to see which SMR vendors survive before committing",
+          "score": -2.61,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 1.95,
+            "P2": -2.61,
+            "P3": 1.07,
+            "P4": 0.57
+          }
+        },
+        {
+          "statementId": "s24",
+          "text": "SMR economics only work if multiple units are built at one site",
+          "score": 2.6,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -0.62,
+            "P2": 2.6,
+            "P3": 2.9,
+            "P4": -0.63
+          }
+        },
+        {
+          "statementId": "s1",
+          "text": "Baseload carbon-free power is a major reason to deploy SMRs",
+          "score": 2.54,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 0.94,
+            "P2": 2.54,
+            "P3": -0.54,
+            "P4": 2.99
+          }
+        },
+        {
+          "statementId": "s5",
+          "text": "Delaware should wait for commercial SMR proof elsewhere before committing",
+          "score": -2.48,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 1.04,
+            "P2": -2.48,
+            "P3": 4.37,
+            "P4": 0.42
+          }
+        }
+      ]
+    },
+    {
+      "perspectiveId": "P3",
+      "name": "Not Yet",
+      "subtitle": "Commitment Should Wait for Commercial Proof",
+      "definingParticipants": 3,
+      "centerCubie": {
+        "statementId": "s5",
+        "text": "Delaware should wait for commercial SMR proof elsewhere before committing",
+        "score": 4.37
+      },
+      "cubies": [
+        {
+          "statementId": "s4",
+          "text": "Delaware should pioneer SMRs and accept early-mover risk",
+          "score": -5.0,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -4.26,
+            "P2": 1.88,
+            "P3": -5.0,
+            "P4": -4.37
+          }
+        },
+        {
+          "statementId": "s20",
+          "text": "SMR cost estimates are too uncertain to rely on right now",
+          "score": 3.39,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 2.26,
+            "P2": 0.7,
+            "P3": 3.39,
+            "P4": 0.36
+          }
+        },
+        {
+          "statementId": "s24",
+          "text": "SMR economics only work if multiple units are built at one site",
+          "score": 2.9,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -0.62,
+            "P2": 2.6,
+            "P3": 2.9,
+            "P4": -0.63
+          }
+        },
+        {
+          "statementId": "s11",
+          "text": "An SMR won't generate power in Delaware before the mid-to-late 2030s",
+          "score": 2.66,
+          "polarity": "affirm",
+          "isConsensus": true,
+          "allScores": {
+            "P1": 2.54,
+            "P2": 1.57,
+            "P3": 2.66,
+            "P4": 1.38
+          }
+        },
+        {
+          "statementId": "s8",
+          "text": "State agencies lack expertise to negotiate with nuclear developers",
+          "score": 2.54,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -2.22,
+            "P2": 0.04,
+            "P3": 2.54,
+            "P4": -0.25
+          }
+        },
+        {
+          "statementId": "s2",
+          "text": "Local tax revenue is a significant reason to pursue SMRs",
+          "score": -2.42,
+          "polarity": "reject",
+          "isConsensus": true,
+          "allScores": {
+            "P1": -2.08,
+            "P2": -1.24,
+            "P3": -2.42,
+            "P4": -1.12
+          }
+        },
+        {
+          "statementId": "s27",
+          "text": "Lack of an SMR supply chain raises deployability concerns",
+          "score": 2.39,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 2.22,
+            "P2": -1.86,
+            "P3": 2.39,
+            "P4": -1.68
+          }
+        },
+        {
+          "statementId": "s22",
+          "text": "SMRs will not pose significant danger to the public while operating",
+          "score": -2.27,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 0.03,
+            "P2": 1.26,
+            "P3": -2.27,
+            "P4": 2.27
+          }
+        }
+      ]
+    },
+    {
+      "perspectiveId": "P4",
+      "name": "Yes, But When Conditions Are Right",
+      "subtitle": "Social License First",
+      "definingParticipants": 3,
+      "centerCubie": {
+        "statementId": "s18",
+        "text": "Public opposition must be addressed preemptively and transparently",
+        "score": 3.63
+      },
+      "cubies": [
+        {
+          "statementId": "s4",
+          "text": "Delaware should pioneer SMRs and accept early-mover risk",
+          "score": -4.37,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -4.26,
+            "P2": 1.88,
+            "P3": -5.0,
+            "P4": -4.37
+          }
+        },
+        {
+          "statementId": "s15",
+          "text": "Job creation is a major reason to deploy SMRs",
+          "score": -4.32,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -2.58,
+            "P2": 1.63,
+            "P3": -1.41,
+            "P4": -4.32
+          }
+        },
+        {
+          "statementId": "s21",
+          "text": "SMRs face security/attack risks other plants don't, requiring investment",
+          "score": -4.31,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 0.01,
+            "P2": -2.06,
+            "P3": -1.44,
+            "P4": -4.31
+          }
+        },
+        {
+          "statementId": "s1",
+          "text": "Baseload carbon-free power is a major reason to deploy SMRs",
+          "score": 2.99,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 0.94,
+            "P2": 2.54,
+            "P3": -0.54,
+            "P4": 2.99
+          }
+        },
+        {
+          "statementId": "s37",
+          "text": "Who bears financial risk if an SMR project fails must be resolved first",
+          "score": 2.74,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 4.13,
+            "P2": 0.5,
+            "P3": 1.22,
+            "P4": 2.74
+          }
+        },
+        {
+          "statementId": "s32",
+          "text": "Delaware should build natural gas now as a bridge to SMRs",
+          "score": 2.49,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": -0.79,
+            "P2": 3.31,
+            "P3": -1.59,
+            "P4": 2.49
+          }
+        },
+        {
+          "statementId": "s33",
+          "text": "We should not leave nuclear waste burdens for future generations",
+          "score": -2.38,
+          "polarity": "reject",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 1.17,
+            "P2": -1.61,
+            "P3": -1.46,
+            "P4": -2.38
+          }
+        },
+        {
+          "statementId": "s22",
+          "text": "SMRs will not pose significant danger to the public while operating",
+          "score": 2.27,
+          "polarity": "affirm",
+          "isConsensus": false,
+          "allScores": {
+            "P1": 0.03,
+            "P2": 1.26,
+            "P3": -2.27,
+            "P4": 2.27
+          }
+        }
+      ]
+    }
+  ]
+}
