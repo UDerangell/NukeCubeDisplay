@@ -1,6 +1,7 @@
 # NukeCubeDisplay
 Example of Rubik's cube 3d visualization for a local issue.
 Additional resources:
+- Youtube video: https://youtu.be/BfS0ur6Cov8
 
 - URL for PDF of the System Thinking report
 https://www.legis.delaware.gov/TaskForceDetail?taskForceId=478
